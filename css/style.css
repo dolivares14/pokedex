@@ -1,0 +1,131 @@
+.parallax{
+    background-image: url(../img/back.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.parallax2{
+    background-image: url(../img/back2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.container_cover{
+    background-color: white;
+    opacity: 0.9;
+   
+    height: auto !important;
+    min-height: 100%;
+   
+}
+html, body {
+    height: 100%;
+}
+.battlesprite{
+    width: 100px;
+    height: auto;
+}
+.artwork{
+    width: 250px;
+    height: auto;
+}
+#description{
+    font-size: 20px;;
+}
+.bordersprite{
+    margin: 3%;
+}
+.water{
+    color: skyblue;
+    font-weight: 800;
+    font-size: 18px;
+}
+.poison{
+    color: slateblue;
+    font-weight: 800;
+    font-size: 18px;
+}
+.grass{
+    color: springgreen;
+    font-weight: 800;
+    font-size: 18px;
+}
+.fire{
+    color: orange;
+    font-weight: 800;
+    font-size: 18px;
+}
+.flying{
+    color: rgba(14, 124, 151, 0.781);
+    font-weight: 800;
+    font-size: 18px;
+}
+.normal{
+    color: gray;
+    font-weight: 800;
+    font-size: 18px;
+}
+.bug{
+    color:green;
+    font-weight: 800;
+    font-size: 18px;
+}
+.ground{
+    color: rgba(218, 221, 36, 0.616);
+    font-weight: 800;
+    font-size: 18px;
+}
+.fairy{
+    color: pink;
+    font-weight: 800;
+    font-size: 18px;
+}
+.electric{
+    color: rgb(241, 208, 20);
+    font-weight: 800;
+    font-size: 18px;
+}
+.psychic{
+    color: rgba(255, 0, 200, 0.719);
+    font-weight: 800;
+    font-size: 18px;
+}
+.ghost{
+    color: rgb(139, 13, 212);
+    font-weight: 800;
+    font-size: 18px;
+}
+.dragon{
+    color: blue;
+    font-weight: 800;
+    font-size: 18px;
+}
+.fighting{
+    color: rgb(216, 33, 9);
+    font-weight: 800;
+    font-size: 18px;
+}
+.rock{
+    color: brown;
+    font-weight: 800;
+    font-size: 18px;
+}
+.steel{
+    color: silver;
+    font-weight: 800;
+    font-size: 18px;
+}
+.ice{
+    color: rgb(70, 137, 175);
+    font-weight: 800;
+    font-size: 18px;
+}
+.dark{
+    color: rgb(20, 7, 9);
+    font-weight: 800;
+    font-size: 18px;
+}
